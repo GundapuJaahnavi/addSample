@@ -1,4 +1,4 @@
-package com.example.Addnumbers;
+package com.example.addSample;
 
 		import com.example.addSample.add;
 		import com.example.addSample.addController;
